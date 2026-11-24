@@ -1,6 +1,5 @@
 # @algovoi/use-wallet-algovoi
 
-
 [![npm](https://img.shields.io/npm/v/@algovoi/use-wallet-algovoi)](https://www.npmjs.com/package/@algovoi/use-wallet-algovoi)
 
 AlgoVoi wallet adapter for [`@txnlab/use-wallet`](https://github.com/TxnLab/use-wallet) v5.
